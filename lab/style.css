@@ -1,0 +1,9 @@
+.heading{
+    text-align: center ;
+    -moz-text-decoration-color:blue  ;
+}
+.image{
+    margin-left: auto;
+    margin-right: 700px;
+    width: 6em
+}
